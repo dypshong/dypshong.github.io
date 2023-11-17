@@ -3,7 +3,7 @@
 source "https://rubygems.org"
 
 gemspec
-# commenting below to remove dependency with "github-pages" 
+# commenting below to remove dependency with "github-pages"
 # gem "github-pages", group: :jekyll_plugins
 
 gem "jekyll-seo-tag"
