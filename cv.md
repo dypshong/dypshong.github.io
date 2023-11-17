@@ -2,7 +2,7 @@
 layout: default
 ---
 
-**Daeyoung Park**, a PhD. candidate in Computer Science and Engineering, Seoul National University.
+I'm **Daeyoung Park**, a PhD. candidate in Computer Science and Engineering from Seoul National University.
 
 ## Research Areas
 * **Quantum Software**: quantum circuit simulation and quantum programming environment
