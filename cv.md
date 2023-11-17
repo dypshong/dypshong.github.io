@@ -2,6 +2,8 @@
 layout: default
 ---
 
+**Daeyoung Park**, a PhD. candidate in Computer Science and Engineering, Seoul National University.
+
 ## Research Areas
 * **Quantum Software**: quantum circuit simulation and quantum programming environment
 * **Deep Learning Systems**: paralleization and optimization of deep learning algorithm
