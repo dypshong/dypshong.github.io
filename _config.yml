@@ -24,7 +24,8 @@ sidebar:
     link: https://scholar.google.com/citations?user=BGH6fVQAAAAJ
   - name: GitHub
     icon: <i class="fa-brands fa-github"></i>
-    link: /
+    link: https://github.com/dypshong
+
 
 # Blogging
 post-search: true
