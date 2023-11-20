@@ -10,7 +10,7 @@ I'm **Daeyoung Park**, a PhD. candidate in Computer Science and Engineering from
 * **Programming Systems for Heterogeneous Machines**: code and system optimization for GPU architectures
 
 ## Education
-* PhD. student in Computer Science and Engineering, Seoul National University, 2020-Current
+* PhD. candidate in Computer Science and Engineering, Seoul National University, 2020-Current
 * M.S. in Computer Science and Engineering, Seoul National University, 2020
 * B.A. in Sociology and B.S. in Computer Science and Engineering, Seoul National University, 2018
 
