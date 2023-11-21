@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
+author: Daeyoung Park
+tag:
 ---
 
-# Welcome
+## Welcome
 
 **Hello world**, this is my first Jekyll blog post.
 
