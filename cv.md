@@ -6,7 +6,7 @@ I'm **Daeyoung Park**, a PhD. candidate in Computer Science and Engineering from
 
 ## Research Areas
 * **Quantum Software**: quantum circuit simulation and quantum programming environment
-* **Deep Learning Systems**: paralleization and optimization of deep learning algorithm
+* **Deep Learning Systems**: parallelization and optimization of deep learning algorithm
 * **Programming Systems for Heterogeneous Machines**: code and system optimization for GPU architectures
 
 ## Education
