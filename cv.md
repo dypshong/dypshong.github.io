@@ -21,11 +21,12 @@ I'm **Daeyoung Park**, a PhD. candidate in Computer Science and Engineering from
 - **[IISWC]** Youngdong Do, Hyungmo Kim, Pyeongseok Oh, **Daeyoung Park**, and Jaejin Lee. SNU-NPB 2019: Parallelizing and Optimizing NPB in OpenCL and CUDA for Modern GPUs. IISWC '19: Proceedings of the 2019 IEEE International Symposium on Workload Characterization, Orlando, Florida, USA, November 2019. DOI: 10.1109/IISWC47752.2019.9041954
 
 ## Teaching Experience
+* Parallel Computing (Samsung Electronics System Expert/Architect, 2021-2024 Spring)
+* Accelerator Programming Winter School (Seoul National University, 2024 Winter)
 * Accelerator Programming Winter School (Seoul National University, 2023 Summer)
 * Scalable High-Performance Computing (Seoul National University, 2023 Spring)
 * Accelerator Programming Winter School (Seoul National University, 2023 Winter)
 * Scalable High-Performance Computing (Seoul National University, 2022 Fall)
-* Parallel Computing (Samsung Electronics System Expert/Architect, 2023 Spring, 2022 Spring, 2021 Spring)
 * Introduction to Quantum Computing and Information (Seoul National University, 2020 Fall)
 * Programming Practice (Seoul National University, 2019 Spring)
 * Accelerator Programming Summer School (Seoul National University, 2018 Summer)
