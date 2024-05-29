@@ -5,12 +5,12 @@ layout: default
 I'm **Daeyoung Park**, a PhD. candidate in Computer Science and Engineering from Seoul National University.
 
 ## Research Areas
-* **Quantum Software**: quantum circuit simulation and quantum programming environment
-* **Deep Learning Systems**: parallelization and optimization of deep learning algorithm
-* **Programming Systems for Heterogeneous Machines**: code and system optimization for GPU architectures
+* **Scalable Deep Learning Systems**: parallelization and optimization of deep learning systems
+* **Quantum-classical Hybrid Software**: quantum circuit simulation and quantum programming environment for quantum-classical hybrid computing
+* **Programming Systems for Heterogeneous Machines**: low-level code and system optimization for GPU architectures (OS kernel/device driver, parallel runtime systems, GPU kernel optimization, etc.)
 
 ## Education
-* PhD. candidate in Computer Science and Engineering, Seoul National University, 2020-Current
+* Ph.D. candidate in Computer Science and Engineering, Seoul National University, 2020-Current
 * M.S. in Computer Science and Engineering, Seoul National University, 2020
 * B.A. in Sociology and B.S. in Computer Science and Engineering, Seoul National University, 2018
 
