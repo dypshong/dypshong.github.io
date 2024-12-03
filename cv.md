@@ -5,8 +5,8 @@ layout: default
 I'm **Daeyoung Park**, a PhD. candidate in Computer Science and Engineering from Seoul National University.
 
 ## Research Areas
+* **Hybrid Quantum-classical Systems**: software systemsfor hybrid quantum-classical computing including high-peformance quantum circuit simulator and quantum circuit compiler
 * **Scalable Deep Learning Systems**: parallelization and optimization of deep learning systems
-* **Quantum-classical Hybrid Software**: quantum circuit simulation and quantum programming environment for quantum-classical hybrid computing
 * **Programming Systems for Heterogeneous Machines**: low-level code and system optimization for GPU architectures (OS kernel/device driver, parallel runtime systems, GPU kernel optimization, etc.)
 
 ## Education
@@ -21,15 +21,12 @@ I'm **Daeyoung Park**, a PhD. candidate in Computer Science and Engineering from
 - **[IISWC]** Youngdong Do, Hyungmo Kim, Pyeongseok Oh, **Daeyoung Park**, and Jaejin Lee. SNU-NPB 2019: Parallelizing and Optimizing NPB in OpenCL and CUDA for Modern GPUs. IISWC '19: Proceedings of the 2019 IEEE International Symposium on Workload Characterization, Orlando, Florida, USA, November 2019. DOI: 10.1109/IISWC47752.2019.9041954
 
 ## Teaching Experience
+* Accelerator Programming Summer/Winter School (Seoul National University, 2024, 2023, and 2018 Summer)
 * Parallel Computing (Samsung Electronics System Expert/Architect, 2021-2024 Spring)
-* Accelerator Programming Winter School (Seoul National University, 2024 Winter)
-* Accelerator Programming Winter School (Seoul National University, 2023 Summer)
 * Scalable High-Performance Computing (Seoul National University, 2023 Spring)
-* Accelerator Programming Winter School (Seoul National University, 2023 Winter)
 * Scalable High-Performance Computing (Seoul National University, 2022 Fall)
 * Introduction to Quantum Computing and Information (Seoul National University, 2020 Fall)
 * Programming Practice (Seoul National University, 2019 Spring)
-* Accelerator Programming Summer School (Seoul National University, 2018 Summer)
 
 ## Activities
 - Student Volunteer of PPoPP22
