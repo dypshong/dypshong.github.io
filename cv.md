@@ -12,7 +12,7 @@ I'm **Daeyoung Park**, a PhD. candidate in Computer Science and Engineering from
 ## Education
 * Ph.D. candidate in Computer Science and Engineering, Seoul National University, 2020-Current
 * M.S. in Computer Science and Engineering, Seoul National University, 2020
-* B.A. in Sociology and B.S. in Computer Science and Engineering, Seoul National University, 2018
+* B.S. in Computer Science and Engineering and B.A. in Sociology, Seoul National University, 2018
 
 ## Publications
 - **[ICS]** **Daeyoung Park**, Heehoon Kin, Jinpyo Kim, Taehyun kim, and Jaejin Lee. SnuQS: Scaling Quantum Circuit Simulation using Storage Devices. ICS '22: Proceedings of the ACM International Conference on Supercomputing, to appear, Online, June 2022. DOI: 10.1145/3524059.3532375.
