@@ -2,7 +2,7 @@
 layout: default
 ---
 
-I'm **Daeyoung Park**, a PhD. candidate in Computer Science and Engineering from Seoul National University.
+I'm **Daeyoung Park**, CEO of [QubiStack](https://www.qubistack.com) a PhD. candidate in Computer Science and Engineering from Seoul National University.
 
 ## Research Areas
 * **Hybrid Quantum-classical Systems**: software systems for hybrid quantum-classical computing including high-peformance quantum circuit simulator and quantum circuit compiler
