@@ -5,9 +5,8 @@ layout: default
 I'm **Daeyoung Park**, a PhD. candidate in Computer Science and Engineering from Seoul National University.
 
 ## Research Areas
-* **Hybrid Quantum-classical Systems**: software systemsfor hybrid quantum-classical computing including high-peformance quantum circuit simulator and quantum circuit compiler
-* **Scalable Deep Learning Systems**: parallelization and optimization of deep learning systems
-* **Programming Systems for Heterogeneous Machines**: low-level code and system optimization for GPU architectures (OS kernel/device driver, parallel runtime systems, GPU kernel optimization, etc.)
+* **Hybrid Quantum-classical Systems**: software systems for hybrid quantum-classical computing including high-peformance quantum circuit simulator and quantum circuit compiler
+* **Quantum Circuit Simulation**: Quantum circuit simulation techinques for large-scale quantum circuit
 
 ## Education
 * Ph.D. candidate in Computer Science and Engineering, Seoul National University, 2020-Current
@@ -15,6 +14,7 @@ I'm **Daeyoung Park**, a PhD. candidate in Computer Science and Engineering from
 * B.S. in Computer Science and Engineering and B.A. in Sociology, Seoul National University, 2018
 
 ## Publications
+- **[PACT]** Junyeol Ryu, Yujin Jeong, **Daeyoung Park**, Jinpyo Kim, Heehoon Kim, and Jaejin Lee. SPipe: Hybrid GPU and CPU Pipeline for Training LLMs under Memory Pressure. PACT ’25: Proceedings of the 34th International Conference on Parallel Architectures and Compilation Techniques, pp. 14–29, Irvine, California, USA, November 2025. DOI: 10.1109/PACT65351.2025.00014.
 - **[ICS]** **Daeyoung Park**, Heehoon Kin, Jinpyo Kim, Taehyun kim, and Jaejin Lee. SnuQS: Scaling Quantum Circuit Simulation using Storage Devices. ICS '22: Proceedings of the ACM International Conference on Supercomputing, to appear, Online, June 2022. DOI: 10.1145/3524059.3532375.
 - **[HPDC]** Jaehoon Jung, **Daeyoung Park**, Gangwon Jo, Jungho Park, and Jaejin Lee. SnuRHAC: A Runtime for Heterogeneous Accelerator Clusters with CUDA Unified Memory. HPDC '21: Proceedings of the 30th International Symposium on High-Performance Parallel and Distributed Computing, pp. 107—120, Online, June 2021. DOI: 10.1145/3431379.3460647
 - **[PPoPP]** Jaehoon Jung, **Daeyoung Park**, Youngdong Do, Jungho Park, and Jaejin Lee. Overlapping Host-to-Device Copy and Computation using Hidden Unified Memory. PPoPP '20: Proceedings of the 25th Symposium on Principles and Practice of Parallel Programming, pp. 321—335, San Diego, California, USA, February 2020. DOI: 10.1145/3332466.3374531
